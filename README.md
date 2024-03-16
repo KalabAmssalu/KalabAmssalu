@@ -63,8 +63,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/KalabAmssalu/KalabAmssalu/output/snake.svg" alt="Snake animation" />
-
-###
