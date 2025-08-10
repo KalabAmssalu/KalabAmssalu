@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • Software Engineer • Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Contributor;Cloud+%26+DevOps+Learner;Always+Building+%26+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Cloud+%26+DevOps+Enginer;Always+Building+%26+Learning" alt="Typing SVG" />
 </p>
 
 ---
