@@ -2,10 +2,6 @@
 <h3 align="center">Full-Stack Developer & Software Engineer</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Animation" width="400" height="250"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Software+Engineer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
