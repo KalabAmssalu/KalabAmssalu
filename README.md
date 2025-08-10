@@ -75,16 +75,6 @@
 
 ---
 
-## 🌟 Featured Projects
-🚀 **[Project Name](https://github.com/kalabamssalu/project-name)**  
-Brief description of what makes it awesome  
-**Tech Stack:** React, Node.js, MongoDB · **[Live Demo](https://your-project-url.com)**  
-
-💻 **[Another Project](https://github.com/kalabamssalu/another-project)**  
-What’s special about it  
-**Tech Stack:** TypeScript, Next.js, PostgreSQL · **[Live Demo](https://another-project-url.com)**  
-
----
 
 ## 📫 Connect With Me
 <p align="center">
