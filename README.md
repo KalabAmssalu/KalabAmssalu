@@ -50,23 +50,12 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalabamssalu&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff&border_color=30363d&hide_border=true" alt="GitHub Stats" />
-</div>
+## 📊 GitHub Most Used Languages Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalabamssalu&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&border_color=30363d&hide_border=true" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalabamssalu&theme=dark&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalabamssalu&theme=github-compact&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ff7b00&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
 ---
 
@@ -176,21 +165,6 @@ const kalab = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kalabamssalu/kalabamssalu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 📊 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalabamssalu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
